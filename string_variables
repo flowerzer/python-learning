@@ -1,0 +1,14 @@
+# Tom's age
+age = 3
+sentence = "Tom is %s years old"
+
+print (sentence % age)
+#output: Tom is 3 years old
+
+
+# Number of pens in a purse
+pens = 13
+pens_in_purse = "There are %s in my purse"  
+
+print(pens_in_purse % pens )
+#output: There are 13 pens in my purse
