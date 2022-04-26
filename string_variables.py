@@ -21,8 +21,8 @@ print(pens_in_purse % pens )
 # "My best friend has 3 dogs"
 
 # 1. I have 34 slippers at home.
-# 2. p
-# 3. 
+# 2. i am 6 years old.
+# 3. my sis is 11 years old.
 # 4. 
 # 5. 
 # 6. 
