@@ -20,6 +20,9 @@ print(e)
 name = "kendra-teddyteddy-ms.tonia"
 print(name)
 
+
+""""""""""" Friday, 13th May, 2022 """""""""""
+
 """
 Class work - 13th May, 22
 Write this text "The Class Selector" in the following cases
@@ -30,9 +33,25 @@ Write this text "The Class Selector" in the following cases
 
 # Pascal case
 TheClassSelector = "pascel"
-
 # Camel case
 theClassSelector = "camel"
-
 # Snake case
 the_class_selector = "snake"
+
+""" Assignining Multiple Variables to Multiple Values"""
+nu, na, fr = 89, "John", "Orange"
+print(nu)
+print(na)
+print( type(fr) )
+
+""" Assignining Multiple Variables to One Value """
+u, i, y = "car"
+print(u) 
+print(y) 
+
+""" Unpacking a List """
+colour = ["red", "yellow", "blue"]
+r, y, b = colour
+
+print(y)
+
