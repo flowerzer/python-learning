@@ -19,3 +19,20 @@ print(e)
 
 name = "kendra-teddyteddy-ms.tonia"
 print(name)
+
+"""
+Class work - 13th May, 22
+Write this text "The Class Selector" in the following cases
+- Pascal case
+- Camel case
+- Snake case
+"""
+
+# Pascal case
+TheClassSelector = "pascel"
+
+# Camel case
+theClassSelector = "camel"
+
+# Snake case
+the_class_selector = "snake"
