@@ -39,4 +39,19 @@ print(s)
 veihcles = ["cars , trucks ,  motor bike , scooter"]
 foods = ["rice , indomie pepersoup spageti"]
 
-# Earned: 45
+# You Earned: 45
+
+
+""" Assignment 10 - Tuesday, 17th May, 2022 
+
+1. Create a variable called booly and make it "False".
+2. Create a function and type the name with the snake case (it must be a three-worded function).
+3. Inside the function create a list of countries.
+
+Example: drinks = ["zobo", "sprite", "malt", "milk"] """
+
+# 1. type your first answer below this line
+
+# 2. type your second answer below this line
+
+# 3. type your third answer below this line
