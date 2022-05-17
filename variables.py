@@ -16,6 +16,7 @@ print(d)
 
 e = b + d
 print(e)
+print("This answer is " + str(d + b))
 
 name = "kendra-teddyteddy-ms.tonia"
 print(name)
@@ -55,3 +56,4 @@ r, y, b = colour
 
 print(y)
 
+RescueLandBase = "water"
