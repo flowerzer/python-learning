@@ -1,5 +1,5 @@
 """
-CURRENT LPS: 30
+CURRENT LPS: 75 / 500
 
 GIFT REWARD: You will receive a present when you have 500 Learning Points (500LPS) 
 SUBMISSION REWARD: You gain 20LPs when you do your assignment and submit it in the next class.
@@ -14,7 +14,7 @@ Good day Miss Tonia,
 I hope you are fine, Here are the answers to my assignment:
 
  ``` Paste your answers here ```
- 
+
 """
 
 
@@ -28,7 +28,15 @@ Tip: Look at the variables.py file for examples. """
 
 drinks = ["zobo", "sprite", "malt", "milk"]
 # type your answer below this line
+z, s, m, l = drinks
+print(z)
 
 clothes = ["trouser", "sock", "jacket", "blouse"]
 # type your answer below this line
+t, s, j, b = clothes
+print(s)
 
+veihcles = ["cars , trucks ,  motor bike , scooter"]
+foods = ["rice , indomie pepersoup spageti"]
+
+# Earned: 45
