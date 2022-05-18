@@ -6,7 +6,7 @@ myScope = 56
 my_boolean = False
 
 def space(): 
-    # global myScope, my_boolean
+    global myInnerScope, my_inner_boolean
     myInnerScope = 2
     my_inner_boolean = True
 
@@ -14,9 +14,10 @@ def space():
         type(myScope),
         type(my_boolean)
     )
-    print(myInnerScope, my_inner_boolean)
-    
-# print(myInnerScope, my_inner_boolean)
+
+space()  
+ 
+print(myInnerScope, my_inner_boolean)
 print(myScope, my_boolean)
-space()
+
 
