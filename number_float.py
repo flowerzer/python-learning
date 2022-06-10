@@ -18,14 +18,6 @@ print(result)
 
 # These are operators: +, *, /, -
 
-result1 = red * num
-print(result1)
-
-result2 = king / red
-print(result2)
-
-result3 = alex - king
-print(result3)
 
 
 """
@@ -57,7 +49,7 @@ print("print_variable " + str(print_variable) )
 
 # Type Checking
 """
-1. Numbers
+1. Numbers (Integer)
 2. Strings
 3. Floats
 """

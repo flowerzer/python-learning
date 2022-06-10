@@ -80,10 +80,7 @@ def add(op1, op2, op3):
 add_numbers = add(67,90,34)
 print(add_numbers)
 
-
-""" Assignment
-Create two more functions:
-- subtract, let this function subtract one number from the other.
-- divide, let this function use one number to divide the other.
-"""
-
+# multiplication * (asterisk)
+# addition + (plus)
+# division / (forward slash)
+# subtraction - (hyphen)
