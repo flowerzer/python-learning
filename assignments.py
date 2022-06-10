@@ -1,4 +1,4 @@
-# CURRENT LPS: 153 / 300
+# CURRENT LPS: 166 / 300
 
 # GIFT REWARD: You will receive a present when you have 500 Learning Points (500LPS) 
 # SUBMISSION REWARD: You gain 20LPs when you do your assignment and submit it in the next class.
@@ -98,13 +98,6 @@ def the_values():
 the_values()
 
 
-def add(a, b, c):
-    result = a + b + c
-    print(result)
-
-add(3, 4, 7) # 14
-
-
 
 # Assignment 13 - Tuesday, 31st May, 2022 (20LPs)
 # 1. Create a string, integer, float, list, tuple, set, dictionary and boolean.
@@ -115,3 +108,7 @@ e = 67.9
 h = ["socks", "trouser", "shirt"]
 a = ("apple", "bannana", "orange")
 b = {"age": 45, "year": 2015}
+
+
+# Assignment 15 - Friday, 10th June, 2022 (20LPs)
+# Print out the input of a variable called "price"

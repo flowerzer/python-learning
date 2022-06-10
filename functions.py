@@ -84,3 +84,9 @@ print(add_numbers)
 # addition + (plus)
 # division / (forward slash)
 # subtraction - (hyphen)
+
+age = input("Enter your age: ")
+print(age)
+
+name = raw_input("Enter your name: ")
+print(name + " is " + str(age) + " years old.")
