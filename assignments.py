@@ -97,7 +97,19 @@ def the_values():
 
 the_values()
 
+def subtract(g, b)
+subtract = g + h
+    (8, 9)
 
+def divide(f, i)
+divide = f\t
+     (5, 8)
+
+
+
+
+
+def divide 
 
 # Assignment 13 - Tuesday, 31st May, 2022 (20LPs)
 # 1. Create a string, integer, float, list, tuple, set, dictionary and boolean.
@@ -112,3 +124,6 @@ b = {"age": 45, "year": 2015}
 
 # Assignment 15 - Friday, 10th June, 2022 (20LPs)
 # Print out the input of a variable called "price"
+
+price = raw_input('Enter your price :')
+print(name + " is " + str(age) + 'years old.')
