@@ -10,24 +10,27 @@ None Type:	NoneType  """
 
 """ The special keywords for python"""
 
-str
-int
-set
-float
-bool
-dict 
+#str
+#int
+#set
+#float
+#bool
+#dict 
 tuple
 bytes
 bytearray
-complex
-list
+#complex
+#list
+
+
+
 
 
 range
-print
-def
+#print
+#def
 
-global
+#global
 return  
 for
 while
@@ -36,9 +39,10 @@ if
 else
 elif
 except
-import
+# import
 as
-from
+#from
 
 MATH
-    
+
+ str elif if diction   

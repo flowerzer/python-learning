@@ -9,10 +9,10 @@ def dancing():
 dancing()
 
 
-def pooping():
+def pooping_in_a_primary6_class():
     print("You poop to take out waste from your body.")
 
-pooping()
+pooping_in_a_primary6_class()
 
 def punching():
     print("i am punching somebody")
@@ -23,7 +23,7 @@ def kicking():
     print("I am kicking something")
         
 def walking():
-    print("walking down the street is fun")
+    print("walking down to school")
     
 kicking()
 walking()

@@ -1,6 +1,7 @@
-# CURRENT LPS: 166 / 300
+# CURRENT LPS: 336 / 650
+# 300, 650, 1000
 
-# GIFT REWARD: You will receive a present when you have 500 Learning Points (500LPS) 
+# GIFT REWARD: You will receive a present when you get the bench Learning Points (500LPS) 
 # SUBMISSION REWARD: You gain 20LPs when you do your assignment and submit it in the next class.
 # PRACTICE REWARD: You gain an extra 15LPS when you do more practice of what you learnt at home.
 # LATE SUBMISSION PENALTY: You gain only 5LPS when you submit a late assignment after the next class.
@@ -97,19 +98,20 @@ def the_values():
 
 the_values()
 
-def subtract(g, b)
-subtract = g + h
-    (8, 9)
-
-def divide(f, i)
-divide = f\t
-     (5, 8)
+def subtract(g, b):
+    g - b
+    
+subtract(8, 9)
 
 
 
+def divide(f, i):
+    f / i
+    
+divide(5, 8)
 
 
-def divide 
+ 
 
 # Assignment 13 - Tuesday, 31st May, 2022 (20LPs)
 # 1. Create a string, integer, float, list, tuple, set, dictionary and boolean.
@@ -125,5 +127,6 @@ b = {"age": 45, "year": 2015}
 # Assignment 15 - Friday, 10th June, 2022 (20LPs)
 # Print out the input of a variable called "price"
 
-price = raw_input('Enter your price :')
+name = raw_input('Enter your name :')
+age = raw_input('Enter your age :')
 print(name + " is " + str(age) + 'years old.')
