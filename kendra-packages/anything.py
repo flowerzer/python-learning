@@ -46,3 +46,7 @@ as
 MATH
 
  str elif if diction   
+
+a_float = 8.90
+version_number = "4.9.17"
+ip_address = "10.5.50.67"

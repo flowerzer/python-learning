@@ -12,3 +12,8 @@ print(people[3] )
 
 print(people[0] + people[5])
 
+  gender = ["girl", "boy", "lady","man"]
+
+["girl", "boy", "lady","man"]
+
+print(gender[2 ] )
