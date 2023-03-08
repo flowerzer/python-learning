@@ -32,15 +32,25 @@ def player_input(board):
 
 
 # check for win or tie
-def checkhorizontle(board):
+def checkRow(board):
     global winner
     if board[0] == board[2]  and board[1] and board[1] != "-":
         winner = board[0]
         return True
     elif board[3] == board[4] == board[5] and board[3] != "-":
-        winner = board[3]
-        return printBoard
-     elif board[6] == board[7] == board[8] and board[6] != "-":
+        winner = board[1]
+        return True
+    elif board[6] == board[7] == board[8] and board[6] != "-":
+        winner = board[2]
+        return True
+
+
+def checkDiag(board):
+    global winner
+
+
+
+
 
 # switch the player
 
