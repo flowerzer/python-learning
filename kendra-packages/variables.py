@@ -6,7 +6,7 @@ print("Miss Tonia")
 a = 20 / 2 # = 10
 b = 5 * 5 # = 25
 c = 5 + 5 # = 10
-d = 19 - 5 # = 14
+d = 40 - 5 # = 14
 
 # this is used to display the b variable
 print( "a is = " + str(a) )
@@ -18,7 +18,7 @@ e = b + d
 print(e)
 print("This answer is " + str(d + b))
 
-name = "kendra-teddyteddy-ms.tonia"
+name = "kfgjfnmlbfxjnh"
 print(name)
 
 
@@ -51,9 +51,9 @@ print(u)
 print(y) 
 
 """ Unpacking a List """
-colour = ["red", "yellow", "blue"]
-r, y, b = colour
+colour = ["red", "yellow", "blue", "teal", "purple"]
+r, y, b, t, p = colour
 
-print(y)
+print(r)
 
-RescueLandBase = "water"
+RescueLandBase = "water"python
